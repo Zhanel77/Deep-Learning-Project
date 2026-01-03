@@ -32,12 +32,15 @@ The project consists of four main experimental sections:
 
 ## Setup Instructions
 
+## Python version <= 3.12.x
+
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/Zhanel77/deep-learning-course-project.git
 cd deep-learning-course-project
 ```
-2. Create a virtual environment (recommended)
+### 2. Create a virtual environment (recommended)
 
 Linux / macOS
 
@@ -51,7 +54,8 @@ Windows
 python -m venv venv
 venv\Scripts\activate
 ```
-3. Install dependencies
+
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
