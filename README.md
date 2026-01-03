@@ -32,7 +32,7 @@ The project consists of four main experimental sections:
 
 ## Setup Instructions
 
-## Python version <= 3.12.x
+### Python version <= 3.12.x
 
 ### 1. Clone the repository
 
